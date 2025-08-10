@@ -15,12 +15,10 @@ A simple Python Tkinter-based application that provides:
 
 # Run the program
 python main.py
-📌 Limitations
-Currency rates are fixed and must be updated manually.
+## 📌 Limitations
+- Currency rates are fixed and must be updated manually.
+- Calculator does not support advanced operations like logarithms or trigonometric functions.
 
-Calculator does not support advanced operations like logarithms or trigonometric functions.
-
-🛠 Future Enhancements
-Fetch live currency rates via an API
-
-Add advanced calculator functionalities
+## 🛠 Future Enhancements
+- Fetch live currency rates via an API.
+- Add advanced calculator functionalities.
